@@ -135,3 +135,11 @@
 2020-09-22 13:14:32,381 - ebanking -INFO - Entered password
 2020-09-22 13:14:36,184 - ebanking -INFO - User name is provided
 2020-09-22 13:14:36,238 - ebanking -INFO - Passsword is provided
+2020-09-22 14:06:47,840 - ebanking -INFO - URL is opened
+2020-09-22 14:06:47,928 - ebanking -INFO - Entered username
+2020-09-22 14:06:47,983 - ebanking -INFO - Entered password
+2020-09-22 14:06:48,616 - ebanking -INFO - Login test passed
+2020-09-22 14:06:52,077 - ebanking -INFO - User name is provided
+2020-09-22 14:06:52,135 - ebanking -INFO - Passsword is provided
+2020-09-22 14:06:56,071 - ebanking -INFO - providing customer details....
+2020-09-22 14:07:04,985 - ebanking -INFO - validation started....
